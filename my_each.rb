@@ -1,6 +1,6 @@
 def my_each(collection)
-  while 
-    
+  while
+
   end
-  array
+array
 end
