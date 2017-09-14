@@ -5,5 +5,5 @@ def my_each(collection)
     puts i
 
   end
- array
+ collection
 end
