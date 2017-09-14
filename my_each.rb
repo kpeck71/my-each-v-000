@@ -1,8 +1,8 @@
 def my_each(collection)
-  i=0
+  i = 0
   while i > collection.length
-    yield (collection)
-    
+    yield (collection[i])
+
 
   end
  collection
